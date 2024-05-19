@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning AIML,cybersecurity,linux , sql 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @lathareddiee@gmail.com
+- 📫 How to reach me lathareddiee@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
